@@ -1,0 +1,54 @@
+,competition,Matchday,Date,Venue,Opponent,Result,Pos.,Minute,At score,Type of goal,Goal assist
+0,Supercopa,final,8/21/10,H,Sevilla FC,4:0,RW,25',2:0,Left-footed shot,Xavi
+1,Supercopa,final,8/21/10,H,Sevilla FC,4:0,RW,43',3:0,Right-footed shot,Dani Alves
+2,Supercopa,final,8/21/10,H,Sevilla FC,4:0,RW,90'+1,4:0,Left-footed shot,Andrés Iniesta
+3,LaLiga,1,8/29/10,A,Racing,0:3,RW,3',0:1,Left-footed shot,Andrés Iniesta
+4,Champions League,Group Stage,9/14/10,H,Panathinaikos,5:1,CF,22',1:1,Left-footed shot,Xavi
+5,Champions League,Group Stage,9/14/10,H,Panathinaikos,5:1,CF,45',3:1,Left-footed shot,Pedro
+6,LaLiga,3,9/19/10,A,Atlético Madrid,1:2,CF,12',0:1,Left-footed shot,Pedro
+7,LaLiga,6,10/3/10,H,RCD Mallorca,1:1,CF,20',1:0,Left-footed shot,Pedro
+8,Champions League,Group Stage,10/20/10,H,FC Copenhagen,2:0,CF,18',1:0,Left-footed shot,Andrés Iniesta
+9,Champions League,Group Stage,10/20/10,H,FC Copenhagen,2:0,CF,90'+1,2:0,Left-footed shot,Éric Abidal
+10,LaLiga,8,10/23/10,A,Real Zaragoza,0:2,CF,41',0:1,Left-footed shot,David Villa
+11,LaLiga,8,10/23/10,A,Real Zaragoza,0:2,CF,65',0:2,Left-footed shot, 
+12,LaLiga,9,10/30/10,H,Sevilla FC,5:0,RW,4',1:0,Left-footed shot, 
+13,LaLiga,9,10/30/10,H,Sevilla FC,5:0,RW,63',4:0,Left-footed shot, 
+14,Champions League,Group Stage,11/2/10,A,FC Copenhagen,1:1,CF,31',0:1,Right-footed shot, 
+15,LaLiga,10,11/7/10,A,Getafe,1:3,CF,23',0:1,Left-footed shot, 
+16,Copa del Rey,4th round,11/10/10,H,AD Ceuta,5:1,RW,67',5:1,Left-footed shot,Thiago
+17,LaLiga,11,11/13/10,H,Villarreal,3:1,CF,58',2:1,Right-footed shot,Pedro
+18,LaLiga,11,11/13/10,H,Villarreal,3:1,CF,83',3:1,Left-footed shot,Pedro
+19,LaLiga,12,11/20/10,A,UD Almería,0:8,CF,16',0:1,Left-footed shot,David Villa
+20,LaLiga,12,11/20/10,A,UD Almería,0:8,CF,36',0:5,Tap-in, 
+21,LaLiga,12,11/20/10,A,UD Almería,0:8,CF,67',0:7,Tap-in,David Villa
+22,Champions League,Group Stage,11/24/10,A,Panathinaikos,0:3,CF,63',0:2,Left-footed shot,Adriano
+23,LaLiga,14,12/4/10,A,CA Osasuna,0:3,CF,64',0:2,Left-footed shot,David Villa
+24,LaLiga,14,12/4/10,A,CA Osasuna,0:3,CF,82',0:3,Penalty, 
+25,LaLiga,15,12/12/10,H,Real Sociedad,5:0,CF,46',3:0,Left-footed shot,Dani Alves
+26,LaLiga,15,12/12/10,H,Real Sociedad,5:0,CF,86',4:0,Left-footed shot,Bojan Krkic
+27,LaLiga,18,1/8/11,A,Dep. La Coruña,0:4,CF,51',0:2,Direct free kick, 
+28,Copa del Rey,Quarter-Finals,1/12/11,H,Real Betis,5:0,CF,44',1:0,Left-footed shot,Andrés Iniesta
+29,Copa del Rey,Quarter-Finals,1/12/11,H,Real Betis,5:0,CF,63',2:0,Left-footed shot, 
+30,Copa del Rey,Quarter-Finals,1/12/11,H,Real Betis,5:0,CF,73',3:0,Left-footed shot,Xavi
+31,Copa del Rey,Quarter-Finals,1/19/11,A,Real Betis,3:1,RW,37',2:1,Left-footed shot,Xavi
+32,LaLiga,20,1/22/11,H,Racing,3:0,CF,33',2:0,Penalty, 
+33,Copa del Rey,Semi-Finals,1/26/11,H,UD Almería,5:0,CF,9',1:0,Left-footed shot,Pedro
+34,Copa del Rey,Semi-Finals,1/26/11,H,UD Almería,5:0,CF,15',3:0,Left-footed shot,Andrés Iniesta
+35,LaLiga,21,1/29/11,A,Hércules CF,0:3,CF,87',0:2,Left-footed shot,Dani Alves
+36,LaLiga,21,1/29/11,A,Hércules CF,0:3,CF,89',0:3,Left-footed shot,Dani Alves
+37,LaLiga,22,2/5/11,H,Atlético Madrid,3:0,CF,16',1:0,Left-footed shot,Dani Alves
+38,LaLiga,22,2/5/11,H,Atlético Madrid,3:0,CF,28',2:0,Left-footed shot,Pedro
+39,LaLiga,22,2/5/11,H,Atlético Madrid,3:0,CF,78',3:0,Left-footed shot,David Villa
+40,LaLiga,24,2/20/11,H,Athletic,2:1,CF,78',2:1,Right-footed shot,Dani Alves
+41,LaLiga,25,2/26/11,A,RCD Mallorca,0:3,CF,38',0:1,Header,Seydou Keita
+42,LaLiga,26,3/2/11,A,Valencia,0:1,CF,77',0:1,Left-footed shot,Adriano
+43,Champions League,last 16,3/8/11,H,Arsenal,3:1,RW,49',1:0,Left-footed shot,Andrés Iniesta
+44,Champions League,last 16,3/8/11,H,Arsenal,3:1,RW,72',3:1,Penalty, 
+45,LaLiga,31,4/9/11,H,UD Almería,3:1,CF,52',1:1,Penalty, 
+46,LaLiga,31,4/9/11,H,UD Almería,3:1,CF,90'+1,3:1,Left-footed shot,Seydou Keita
+47,Champions League,Quarter-Finals,4/12/11,A,Shakhtar D.,0:1,CF,42',0:1,Left-footed shot,Dani Alves
+48,LaLiga,32,4/16/11,A,Real Madrid,1:1,CF,53',0:1,Penalty, 
+49,LaLiga,33,4/23/11,H,CA Osasuna,2:0,CF,87',2:0,Right-footed shot,Dani Alves
+50,Champions League,Semi-Finals,4/27/11,A,Real Madrid,0:2,CF,76',0:1,Left-footed shot,Ibrahim Afellay
+51,Champions League,Semi-Finals,4/27/11,A,Real Madrid,0:2,CF,87',0:2,Solo run,Sergio Busquets
+52,Champions League,Final,5/28/11,H,Man Utd,3:1,CF,54',2:1,Left-footed shot,Andrés Iniesta

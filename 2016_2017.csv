@@ -1,0 +1,55 @@
+,competition,Matchday,Date,Venue,Opponent,Result,Pos.,Minute,At score,Type of goal,Goal assist
+0,Supercopa,final,8/17/16,H,Sevilla FC,3:0,RW,55',3:0,Header,Lucas Digne
+1,LaLiga,1,8/20/16,H,Real Betis,6:2,RW,37',2:1,Left-footed shot,Sergi Roberto
+2,LaLiga,1,8/20/16,H,Real Betis,6:2,RW,58',5:1,Left-footed shot,Arda Turan
+3,Champions League,Group Stage,9/13/16,H,Celtic,7:0,RW,3',1:0,Left-footed shot,Neymar
+4,Champions League,Group Stage,9/13/16,H,Celtic,7:0,RW,27',2:0,Left-footed shot,Neymar
+5,Champions League,Group Stage,9/13/16,H,Celtic,7:0,RW,60',5:0,Left-footed shot,Luis Suárez
+6,LaLiga,4,9/17/16,A,CD Leganés,1:5,RW,15',0:1,Left-footed shot,Luis Suárez
+7,LaLiga,4,9/17/16,A,CD Leganés,1:5,RW,55',0:4,Penalty, 
+8,LaLiga,8,10/15/16,H,Dep. La Coruña,4:0,RW,58',4:0,Left-footed shot,Neymar
+9,Champions League,Group Stage,10/19/16,H,Man City,4:0,RW,17',1:0,Left-footed shot,Andrés Iniesta
+10,Champions League,Group Stage,10/19/16,H,Man City,4:0,RW,61',2:0,Left-footed shot,Andrés Iniesta
+11,Champions League,Group Stage,10/19/16,H,Man City,4:0,RW,69',3:0,Left-footed shot,Luis Suárez
+12,LaLiga,9,10/22/16,A,Valencia,2:3,RW,22',0:1,Left-footed shot,Ivan Rakitic
+13,LaLiga,9,10/22/16,A,Valencia,2:3,RW,90'+4,2:3,Penalty, 
+14,Champions League,Group Stage,11/1/16,A,Man City,3:1,RW,21',0:1,Left-footed shot,Neymar
+15,LaLiga,11,11/6/16,A,Sevilla FC,1:2,RW,43',1:1,Left-footed shot,Neymar
+16,Champions League,Group Stage,11/23/16,A,Celtic,0:2,RW,24',0:1,Left-footed shot,Neymar
+17,Champions League,Group Stage,11/23/16,A,Celtic,0:2,RW,55',0:2,Penalty, 
+18,LaLiga,13,11/27/16,A,Real Sociedad,1:1,RW,59',1:1,Left-footed shot,Neymar
+19,Champions League,Group Stage,12/6/16,H,Bor. M'gladbach,4:0,RW,16',1:0,Left-footed shot,Arda Turan
+20,LaLiga,15,12/10/16,A,CA Osasuna,0:3,RW,72',0:2,Left-footed shot,Jordi Alba
+21,LaLiga,15,12/10/16,A,CA Osasuna,0:3,RW,90'+2,0:3,Left-footed shot,Sergio Busquets
+22,LaLiga,16,12/18/16,H,Espanyol,4:1,RW,90',4:1,Left-footed shot,Luis Suárez
+23,Copa del Rey,last 16,1/5/17,A,Athletic,2:1,RW,52',2:1,Direct free kick, 
+24,LaLiga,17,1/8/17,A,Villarreal,1:1,RW,90',1:1,Direct free kick, 
+25,Copa del Rey,last 16,1/11/17,H,Athletic,3:1,RW,78',3:1,Direct free kick, 
+26,LaLiga,18,1/14/17,H,UD Las Palmas,5:0,RW,52',2:0,Right-footed shot, 
+27,LaLiga,19,1/22/17,A,SD Eibar,0:4,RW,50',0:2,Left-footed shot,Luis Suárez
+28,Copa del Rey,Quarter-Finals,1/26/17,H,Real Sociedad,5:2,RW,55',2:0,Penalty, 
+29,Copa del Rey,Semi-Finals,2/1/17,A,Atlético Madrid,1:2,RW,33',0:2,Left-footed shot,Ivan Rakitic
+30,LaLiga,21,2/4/17,H,Athletic,3:0,RW,40',2:0,Direct free kick, 
+31,LaLiga,22,2/11/17,A,Alavés,0:6,RW,59',0:3,Left-footed shot,Neymar
+32,LaLiga,23,2/19/17,H,CD Leganés,2:1,RW,4',1:0,Right-footed shot,Luis Suárez
+33,LaLiga,23,2/19/17,H,CD Leganés,2:1,RW,90',2:1,Penalty, 
+34,LaLiga,24,2/26/17,A,Atlético Madrid,1:2,RW,86',1:2,Left-footed shot, 
+35,LaLiga,25,3/1/17,H,Sporting Gijón,6:1,RW,9',1:0,Header,Javier Mascherano
+36,LaLiga,26,3/4/17,H,Celta de Vigo,5:0,AM,24',1:0,Left-footed shot,Sergio Busquets
+37,LaLiga,26,3/4/17,H,Celta de Vigo,5:0,AM,64',5:0,Left-footed shot, 
+38,Champions League,last 16,3/8/17,H,Paris SG,6:1,AM,50',3:0,Penalty, 
+39,LaLiga,28,3/19/17,H,Valencia,4:2,AM,45',2:1,Penalty, 
+40,LaLiga,28,3/19/17,H,Valencia,4:2,AM,53',3:2,Right-footed shot,Javier Mascherano
+41,LaLiga,30,4/5/17,H,Sevilla FC,3:0,RW,28',2:0,Right-footed shot,Luis Suárez
+42,LaLiga,30,4/5/17,H,Sevilla FC,3:0,RW,33',3:0,Left-footed shot, 
+43,LaLiga,32,4/15/17,H,Real Sociedad,3:2,RW,17',1:0,Left-footed shot,Luis Suárez
+44,LaLiga,32,4/15/17,H,Real Sociedad,3:2,RW,37',2:0,Tap-in, 
+45,LaLiga,33,4/23/17,A,Real Madrid,2:3,RW,33',1:1,Left-footed shot,Ivan Rakitic
+46,LaLiga,33,4/23/17,A,Real Madrid,2:3,RW,90'+2,2:3,Left-footed shot,Jordi Alba
+47,LaLiga,34,4/26/17,H,CA Osasuna,7:1,AM,12',1:0,Left-footed shot, 
+48,LaLiga,34,4/26/17,H,CA Osasuna,7:1,AM,61',4:1,Left-footed shot,Ivan Rakitic
+49,LaLiga,36,5/6/17,H,Villarreal,4:1,RW,45',2:1,Left-footed shot,Sergio Busquets
+50,LaLiga,36,5/6/17,H,Villarreal,4:1,RW,82',4:1,Penalty, 
+51,LaLiga,38,5/21/17,H,SD Eibar,4:2,RW,75',3:2,Penalty, 
+52,LaLiga,38,5/21/17,H,SD Eibar,4:2,RW,90'+2,4:2,Right-footed shot, 
+53,Copa del Rey,Final,5/27/17,H,Alavés,3:1,RW,30',1:0,Left-footed shot,Neymar

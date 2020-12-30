@@ -1,0 +1,61 @@
+,competition,Matchday,Date,Venue,Opponent,Result,Pos.,Minute,At score,Type of goal,Goal assist
+0,LaLiga,1,8/19/12,H,Real Sociedad,5:1,CF,10',2:1,Left-footed shot,Pedro
+1,LaLiga,1,8/19/12,H,Real Sociedad,5:1,CF,15',3:1,Left-footed shot,Cristian Tello
+2,Supercopa,final,8/23/12,H,Real Madrid,3:2,CF,60',2:1,Penalty, 
+3,LaLiga,2,8/26/12,A,CA Osasuna,1:2,CF,74',1:1,Left-footed shot,Alexis Sánchez
+4,LaLiga,2,8/26/12,A,CA Osasuna,1:2,CF,79',1:2,Left-footed shot,Jordi Alba
+5,Supercopa,final,8/29/12,A,Real Madrid,2:1,CF,45',2:1,Direct free kick, 
+6,LaLiga,4,9/15/12,A,Getafe,1:4,CF,74',0:2,Penalty, 
+7,LaLiga,4,9/15/12,A,Getafe,1:4,CF,78',0:3,Left-footed shot,Pedro
+8,Champions League,Group Stage,9/19/12,H,Spartak Moscow,3:2,CF,71',2:2,Left-footed shot,Cristian Tello
+9,Champions League,Group Stage,9/19/12,H,Spartak Moscow,3:2,CF,80',3:2,Header,Alexis Sánchez
+10,LaLiga,7,10/7/12,H,Real Madrid,2:2,CF,31',1:1,Left-footed shot, 
+11,LaLiga,7,10/7/12,H,Real Madrid,2:2,CF,60',2:1,Direct free kick, 
+12,LaLiga,8,10/20/12,A,Dep. La Coruña,4:5,CF,17',0:3,Left-footed shot,Cesc Fàbregas
+13,LaLiga,8,10/20/12,A,Dep. La Coruña,4:5,CF,43',2:4,Left-footed shot,Cesc Fàbregas
+14,LaLiga,8,10/20/12,A,Dep. La Coruña,4:5,CF,76',3:5,Left-footed shot,Xavi
+15,LaLiga,9,10/27/12,A,Rayo Vallecano,0:5,CF,48',0:2,Left-footed shot,Martín Montoya
+16,LaLiga,9,10/27/12,A,Rayo Vallecano,0:5,CF,89',0:5,Right-footed shot,Cesc Fàbregas
+17,Champions League,Group Stage,11/7/12,A,Celtic,2:1,CF,90'+1,2:1,Tap-in, 
+18,LaLiga,11,11/11/12,A,RCD Mallorca,2:4,CF,43',0:2,Left-footed shot,Sergio Busquets
+19,LaLiga,11,11/11/12,A,RCD Mallorca,2:4,CF,70',2:4,Left-footed shot,Alexis Sánchez
+20,LaLiga,12,11/17/12,H,Real Zaragoza,3:1,CF,15',1:0,Left-footed shot,Jordi Alba
+21,LaLiga,12,11/17/12,H,Real Zaragoza,3:1,CF,60',3:1,Left-footed shot,Martín Montoya
+22,Champions League,Group Stage,11/20/12,A,Spartak Moscow,0:3,CF,27',0:2,Right-footed shot, 
+23,Champions League,Group Stage,11/20/12,A,Spartak Moscow,0:3,CF,39',0:3,Left-footed shot,Pedro
+24,LaLiga,13,11/25/12,A,Levante,0:4,CF,46',0:1,Left-footed shot,Andrés Iniesta
+25,LaLiga,13,11/25/12,A,Levante,0:4,CF,51',0:2,Left-footed shot,Andrés Iniesta
+26,LaLiga,14,12/1/12,H,Athletic,5:1,CF,24',2:0,Left-footed shot,Xavi
+27,LaLiga,14,12/1/12,H,Athletic,5:1,CF,69',5:1,Right-footed shot,Pedro
+28,LaLiga,15,12/9/12,A,Real Betis,1:2,CF,16',0:1,Left-footed shot,Andrés Iniesta
+29,LaLiga,15,12/9/12,A,Real Betis,1:2,CF,25',0:2,Left-footed shot,Andrés Iniesta
+30,Copa del Rey,last 16,12/12/12,A,Córdoba CF,0:2,CF,10',0:1,Left-footed shot,David Villa
+31,Copa del Rey,last 16,12/12/12,A,Córdoba CF,0:2,CF,73',0:2,Left-footed shot,Alexis Sánchez
+32,LaLiga,16,12/16/12,H,Atlético Madrid,4:1,CF,58',3:1,Left-footed shot,Alexis Sánchez
+33,LaLiga,16,12/16/12,H,Atlético Madrid,4:1,CF,88',4:1,Left-footed shot, 
+34,LaLiga,17,12/22/12,A,Real Valladolid,1:3,CF,59',0:2,Left-footed shot,Xavi
+35,LaLiga,18,1/6/13,H,Espanyol,4:0,CF,28',4:0,Penalty, 
+36,LaLiga,19,1/13/13,A,Málaga CF,1:3,CF,26',0:1,Right-footed shot, 
+37,Copa del Rey,Quarter-Finals,1/16/13,H,Málaga CF,2:2,CF,29',1:1,Left-footed shot, 
+38,LaLiga,20,1/19/13,A,Real Sociedad,3:2,CF,6',0:1,Left-footed shot,Andrés Iniesta
+39,Copa del Rey,Quarter-Finals,1/24/13,A,Málaga CF,2:4,CF,79',2:4,Header,Dani Alves
+40,LaLiga,21,1/27/13,H,CA Osasuna,5:1,CF,11',1:0,Right-footed shot,Xavi
+41,LaLiga,21,1/27/13,H,CA Osasuna,5:1,CF,28',2:1,Penalty, 
+42,LaLiga,21,1/27/13,H,CA Osasuna,5:1,CF,56',4:1,Left-footed shot,David Villa
+43,LaLiga,21,1/27/13,H,CA Osasuna,5:1,CF,58',5:1,Left-footed shot,Adriano
+44,LaLiga,22,2/3/13,A,Valencia,1:1,CF,39',1:1,Penalty, 
+45,LaLiga,23,2/10/13,H,Getafe,6:1,CF,13',2:0,Left-footed shot,Thiago
+46,LaLiga,24,2/16/13,A,Granada CF,1:2,CF,49',1:1,Left-footed shot, 
+47,LaLiga,24,2/16/13,A,Granada CF,1:2,CF,72',1:2,Direct free kick, 
+48,LaLiga,25,2/23/13,H,Sevilla FC,2:1,CF,60',2:1,Left-footed shot,Cristian Tello
+49,LaLiga,26,3/2/13,A,Real Madrid,2:1,CF,18',1:1,Left-footed shot,Dani Alves
+50,LaLiga,27,3/9/13,H,Dep. La Coruña,2:0,CF,88',2:0,Left-footed shot,Alexis Sánchez
+51,Champions League,last 16,3/12/13,H,AC Milan,4:0,CF,5',1:0,Left-footed shot,Xavi
+52,Champions League,last 16,3/12/13,H,AC Milan,4:0,CF,40',2:0,Left-footed shot,Andrés Iniesta
+53,LaLiga,28,3/17/13,H,Rayo Vallecano,3:1,CF,40',2:0,Left-footed shot,David Villa
+54,LaLiga,28,3/17/13,H,Rayo Vallecano,3:1,CF,57',3:0,Left-footed shot,David Villa
+55,LaLiga,29,3/30/13,A,Celta de Vigo,2:2,CF,73',1:2,Left-footed shot,Cristian Tello
+56,Champions League,Quarter-Finals,4/2/13,A,Paris SG,2:2,CF,38',0:1,Left-footed shot,Dani Alves
+57,LaLiga,33,4/27/13,A,Athletic,2:2,CF,67',1:1,Left-footed shot,Thiago
+58,LaLiga,34,5/5/13,H,Real Betis,4:2,CF,60',3:2,Direct free kick, 
+59,LaLiga,34,5/5/13,H,Real Betis,4:2,CF,71',4:2,Left-footed shot,Alexis Sánchez
