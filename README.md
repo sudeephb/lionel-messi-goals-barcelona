@@ -1,5 +1,5 @@
 # lionel-messi-goals-barcelona
-All goals scored by Lionel Messi for FC Barcelona from 2005 to the end of 2020.
+All goals scored by Lionel Messi for FC Barcelona from 2005 to the end of 2020/21 season.
 
 Each csv file contains the goals of the corresponding season, and has the following columns:
 
